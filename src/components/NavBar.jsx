@@ -1,5 +1,5 @@
 import icon from '../img/icon.png'
-import './NavBar.css'
+import '/NavBar.css'
 function NavBar(){
     return(
 
